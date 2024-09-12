@@ -1,8 +1,8 @@
 import React from 'react'
-function App() {
+const App = () =>{
   return (
-    <main className=''>
-      <h1 className='text-3xl '>Hello World</h1>
+    <main className='max-w-7xl mx-auto'>
+      <h1 className='text-2xl text-white underline '>Hello World</h1>
     </main>
   )
 }
